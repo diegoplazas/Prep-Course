@@ -1,0 +1,24 @@
+h1 {
+    color:brown
+}
+img{
+    display: block;
+    width: 400px;
+    margin: auto;
+}
+#thirdDiv{
+    height: 600px; width: 500px;  background-color: aqua; padding: 50px; border-color: gold; border: 20px; align-items: center;
+}
+#spanId{
+    font-size: 18px; border: 15px; border-style: dashed ; border-color: red;
+}
+body{
+    text-align: center; 
+    background-image: url("Imagen1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+div{
+    align-items: center; margin: auto;
+}
